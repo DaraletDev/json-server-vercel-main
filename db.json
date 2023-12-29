@@ -1,0 +1,52 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "date": "2023-03-22",
+      "customer": 1,
+      "branch_office": "Peru",
+      "currency": "PEN",
+      "details": [
+        {
+          "id": 1,
+          "name": "Condenser USB Microphone",
+          "quantity": 2,
+          "price": 2000,
+          "subtotal": 4000
+        },
+        {
+          "id": 2,
+          "name": "Condenser USB Microphone2",
+          "quantity": 2,
+          "price": 2000,
+          "subtotal": 4000
+        }
+      ],
+      "total": 8000
+    },
+    {
+      "id": 2,
+      "date": "2023-03-22",
+      "customer": 1,
+      "branch_office": "Peru",
+      "currency": "PEN",
+      "details": [
+        {
+          "id": 1,
+          "name": "Condenser USB Microphone",
+          "quantity": 2,
+          "price": 2000,
+          "subtotal": 4000
+        },
+        {
+          "id": 2,
+          "name": "Condenser USB Microphone2",
+          "quantity": 2,
+          "price": 2000,
+          "subtotal": 4000
+        }
+      ],
+      "total": 8000
+    }
+  ]
+}
